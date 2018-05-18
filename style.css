@@ -1,0 +1,17 @@
+<!DOCTYPE CSS>
+
+head {
+	font-family: 'Comic Sans';
+	color: purple;
+	background-color: #F5F5DC; 
+}
+
+body {
+	background-color: #F0F8FF;
+}
+
+.favourites {
+	font-family: 'Comic Sans';
+	color: blue;
+	background-color: #F8F8FF;
+}
